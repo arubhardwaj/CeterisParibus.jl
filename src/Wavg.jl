@@ -1,0 +1,1 @@
+Wavg(a,w) = sum(w.*a)/sum(w)
