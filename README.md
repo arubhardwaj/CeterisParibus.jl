@@ -7,3 +7,5 @@
 
 
 I created this package just to explore the process of making packages in Julia. Now, I write all stupid functions here, mainly to practice the art of writing functions. So don't judge me please!! 
+
+It is just a dummy package where I write code for fun!!! lol
